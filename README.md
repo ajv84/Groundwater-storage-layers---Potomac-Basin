@@ -1,4 +1,4 @@
-# Data for: Evaluating Time-lagged Relationships between Groundwater Storage and River Discharge: Case Study of the Potomac Basin
+# Data for Evaluating Time-lagged Relationships between Groundwater Storage and River Discharge: Case Study of the Potomac Basin
 This repository contains the datasets used in the above-titled study published in Environmental Research Communications.
 
 ## Files
